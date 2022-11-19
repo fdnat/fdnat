@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fdnat
-- 👀 I’m interested in Laraval
+- 👀 I’m interested in Laravel
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Laravel
 - 📫 How to reach me idk
